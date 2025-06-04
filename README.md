@@ -21,10 +21,11 @@
   <img align="center" alt="Gustavo-Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Gustavo-WindowsServer" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg"/>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B80A0A&height=120&section=footer"/>
 
   ### Social Media:
 <div>  
   <a href="https://www.instagram.com/gpalavro_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/gustavo-palavro-49b2a9235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B80A0A&height=120&section=footer"/>
