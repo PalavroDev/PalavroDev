@@ -9,8 +9,9 @@
 
 [![Gustavo github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PalavroDev&bg_color=000000&color=B80A0A&line=B80A0A&point=B80A0A&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Main Skills:
-<div style="display: inline_block">
+
+<div align="center" style="display: inline_block">
+  ### Main Skills:
   <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,8 +24,9 @@
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B80A0A&height=120&section=footer"/>
 
-### Social Media:
+
 <div align=center>  
+  ### Social Media:
   <a href="https://www.instagram.com/gpalavro_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/gustavo-palavro-49b2a9235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
